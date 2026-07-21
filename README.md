@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/veeresh0804/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/veeresh0804/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/veeresh0804/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/veeresh0804/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/veeresh0804/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/veeresh0804/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0925-long-pressed-name](https://github.com/veeresh0804/Leetcode/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/veeresh0804/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/veeresh0804/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/veeresh0804/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
