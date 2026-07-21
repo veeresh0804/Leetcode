@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/veeresh0804/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/veeresh0804/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/veeresh0804/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/veeresh0804/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/veeresh0804/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
