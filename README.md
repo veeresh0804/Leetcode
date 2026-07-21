@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/veeresh0804/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0925-long-pressed-name](https://github.com/veeresh0804/Leetcode/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/veeresh0804/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/veeresh0804/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
@@ -70,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/veeresh0804/Leetcode/tree/master/0455-assign-cookies) |
+| [0925-long-pressed-name](https://github.com/veeresh0804/Leetcode/tree/master/0925-long-pressed-name) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/veeresh0804/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
