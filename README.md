@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/veeresh0804/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/veeresh0804/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/veeresh0804/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/veeresh0804/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/veeresh0804/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/veeresh0804/Leetcode/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/veeresh0804/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -121,5 +122,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/veeresh0804/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/veeresh0804/Leetcode/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/veeresh0804/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
