@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/veeresh0804/Leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/veeresh0804/Leetcode/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/veeresh0804/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/veeresh0804/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/veeresh0804/Leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/veeresh0804/Leetcode/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/veeresh0804/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1710-maximum-units-on-a-truck](https://github.com/veeresh0804/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
