@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/veeresh0804/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/veeresh0804/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/veeresh0804/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/veeresh0804/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/veeresh0804/Leetcode/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/veeresh0804/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/veeresh0804/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -124,8 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/veeresh0804/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/veeresh0804/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/veeresh0804/Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/veeresh0804/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/veeresh0804/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
