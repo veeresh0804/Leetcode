@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/veeresh0804/Leetcode/tree/master/0412-fizz-buzz) |
 | [0692-top-k-frequent-words](https://github.com/veeresh0804/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0925-long-pressed-name](https://github.com/veeresh0804/Leetcode/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/veeresh0804/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/veeresh0804/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/veeresh0804/Leetcode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/veeresh0804/Leetcode/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/veeresh0804/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/veeresh0804/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/veeresh0804/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/veeresh0804/Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/veeresh0804/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
