@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/veeresh0804/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/veeresh0804/Leetcode/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/veeresh0804/Leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/veeresh0804/Leetcode/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/veeresh0804/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/veeresh0804/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/veeresh0804/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/veeresh0804/Leetcode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/veeresh0804/Leetcode/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/veeresh0804/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
