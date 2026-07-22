@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/veeresh0804/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/veeresh0804/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/veeresh0804/Leetcode/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/veeresh0804/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/veeresh0804/Leetcode/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/veeresh0804/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/veeresh0804/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/veeresh0804/Leetcode/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/veeresh0804/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
