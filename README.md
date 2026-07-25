@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/veeresh0804/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/veeresh0804/Leetcode/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/veeresh0804/Leetcode/tree/master/0134-gas-station) |
+| [0198-house-robber](https://github.com/veeresh0804/Leetcode/tree/master/0198-house-robber) |
 | [0455-assign-cookies](https://github.com/veeresh0804/Leetcode/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/veeresh0804/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/veeresh0804/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/veeresh0804/Leetcode/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/veeresh0804/Leetcode/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
