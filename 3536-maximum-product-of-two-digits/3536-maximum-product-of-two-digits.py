@@ -6,6 +6,6 @@ class Solution:
             arr.append(n%10)
             n//=10
 
-        arr.sort()
-        return arr[n-1]*arr[n-2]
+        arr.sort(reverse=True)
+        return arr[0]*arr[1]
         
