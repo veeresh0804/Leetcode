@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/veeresh0804/Leetcode/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/veeresh0804/Leetcode/tree/master/0198-house-robber) |
 | [0455-assign-cookies](https://github.com/veeresh0804/Leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/veeresh0804/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/veeresh0804/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/veeresh0804/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/veeresh0804/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/veeresh0804/Leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/veeresh0804/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/veeresh0804/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/veeresh0804/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/veeresh0804/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/veeresh0804/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/veeresh0804/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/veeresh0804/Leetcode/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/veeresh0804/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/veeresh0804/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/veeresh0804/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/veeresh0804/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
