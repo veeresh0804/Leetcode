@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/veeresh0804/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/veeresh0804/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/veeresh0804/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/veeresh0804/Leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/veeresh0804/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/veeresh0804/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/veeresh0804/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/veeresh0804/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/veeresh0804/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/veeresh0804/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/veeresh0804/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/veeresh0804/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/veeresh0804/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/veeresh0804/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/veeresh0804/Leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/veeresh0804/Leetcode/tree/master/0198-house-robber) |
+| [1406-stone-game-iii](https://github.com/veeresh0804/Leetcode/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/veeresh0804/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/veeresh0804/Leetcode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/veeresh0804/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/veeresh0804/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
